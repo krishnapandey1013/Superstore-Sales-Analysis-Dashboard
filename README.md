@@ -5,7 +5,7 @@ This project presents a business intelligence dashboard built using **Microsoft 
 ---
 
 ## 📌 Key Insights & KPIs
-- **Total Sales:** ₹157,266
+- **Total Sales:** ₹147266.4
 - **Best Performing Category:** Electronics
 - **Highest Revenue Region:** West
 
